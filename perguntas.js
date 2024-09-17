@@ -29,7 +29,7 @@ criaCartao(
     'Qual é a formula para se calcular concentração comum?',
     'R: C = m/v , C: Concentração comum /n m: massa soluto /n V: volume da solução')
     
-    criaCartao(
+criaCartao(
     'Física',
     
     'Qual a diferença entre ondas mecânicas e eletromagnéticas?',
@@ -59,7 +59,7 @@ criaCartao(
     'qual é a fórmula de torricelli',
     'R: vf2=vi2+2∙a∙∆x ')
     
-    criaCartao(
+criaCartao(
     'Biologia',
     
     'Qual é a função dos ribossomos nas células?',
@@ -89,7 +89,7 @@ criaCartao(
     'Qual é a principal função do sistema imunológico?',
     'R: Proteger o organismo contra patógenos, como vírus, bactérias e outros agentes infecciosos.')
     
-    criaCartao(
+criaCartao(
     'Matemática',
     
     'O que é um número primo?',
