@@ -7,3 +7,15 @@
     --cor-texto-destaque: 	#008080;
 
 }
+
+body {
+    background-color: var(--fundo);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: var(--fundo);
+    color: var(--branco);
+    width: 100%;
+}
