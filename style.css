@@ -52,5 +52,20 @@ footer {
     margin-top: 1rem;
     padding: 2rem;
     padding-top: 3rem;
+}
 
+.cartao_conteudo_resposta{
+    color: var(--caixa-cor-verso);
+}
+
+.cartao.active .cartao_conteudo{
+    transform: rotateY('180deg');
+}
+
+.cartao_conteudo_pergunta, .cartao_conteudo_resposta{
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
 }
