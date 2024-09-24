@@ -1,10 +1,10 @@
 :root{
-    --caixa-cor-frente: #00CED1;
+    --caixa-cor-frente: #008080; 
     --caixa-cor-verso: #4B0082;
     --fundo: #474A51;
     --preto: black;
     --branco: white;
-    --cor-texto-destaque: 	#008080;
+    --cor-texto-destaque: 	#00CED1;
 
 }
 
