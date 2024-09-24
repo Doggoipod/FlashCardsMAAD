@@ -1,7 +1,7 @@
 :root{
     --caixa-cor-frente: #00CED1;
     --caixa-cor-verso: #4B0082;
-    --fundo: #7B68EE;
+    --fundo: #474A51;
     --preto: black;
     --branco: white;
     --cor-texto-destaque: 	#008080;
@@ -11,12 +11,13 @@
 body {
     background-color: var(--fundo);
     margin: 0;
+    color: var(--branco);
 }
 
 footer {
     position: fixed;
     bottom: 0;
-    background-color: #563de4;
+    background-color: black;
     color: var(--branco);
     width: 100%;
     text-align: center;
